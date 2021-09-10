@@ -1,0 +1,1 @@
+export { FacebookCard } from "./FacebookCard"
